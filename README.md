@@ -19,13 +19,13 @@ Bu proje, kullanıcıların Firebase ile **giriş/kayıt olabileceği** ve ardı
 
 Kullanıcılar Firebase ile email ve şifre kullanarak giriş yapabilir veya kayıt olabilir:
 
-![Login Screen](https://drive.google.com/file/d/1-5pAc1E5rwzTlEfxppEStQgZQBZtdyXF/view?usp=sharing)
+![Login Screen](https://resimlink.rf.gd/i/Y4k9SA.png)
 
 ### 🧾 Web Servis Yönlendirme Listesi
 
 Kayıt/Giriş sonrası kullanıcı, kartlar halinde listelenmiş servisler sayfasına yönlendirilir:
 
-![Servis Listesi](https://drive.google.com/file/d/1-0NnWNDlrgTOp5ZupzcKJ-yccd91WVjd/view?usp=sharing)
+![Servis Listesi](https://resimlink.rf.gd/i/p7HFEV.png)
 
 ---
 
