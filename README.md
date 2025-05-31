@@ -28,7 +28,7 @@ Kayıt/Giriş sonrası kullanıcı, kartlar halinde listelenmiş servisler sayfa
 ![Servis Listesi](https://resimlink.rf.gd/i/p7HFEV.png)
 
 ---
-![Video_Kaydı](https://drive.google.com/file/d/1Wiew0XKeVZKCblFW56azry9RxTmBKSZi/view)
+![Video_Kaydı]()
 ## 🛠️ Teknolojiler ve Kütüphaneler
 
 - Kotlin + Jetpack Compose
